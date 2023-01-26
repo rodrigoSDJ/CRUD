@@ -1,0 +1,226 @@
+[
+  {
+    "id": 2,
+    "Name": "Pedro",
+    "LastName": "Dante",
+    "Age": 33,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 4,
+    "Name": "Leonel",
+    "LastName": "Suarez",
+    "Age": 41,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 6,
+    "Name": "Victoria",
+    "LastName": "Tavares",
+    "Age": 24,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 8,
+    "Name": "Martha",
+    "LastName": "Taquimo",
+    "Age": 34,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 10,
+    "Name": "Mia",
+    "LastName": "Khalifa",
+    "Age": 19,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 11,
+    "Name": "Mary",
+    "LastName": "Hewlett",
+    "Age": 55,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 12,
+    "Name": "Fernando",
+    "LastName": "Ronald",
+    "Age": 25,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 13,
+    "Name": "Fatima",
+    "LastName": "Masselmani",
+    "Age": 20,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 14,
+    "Name": "Brenda",
+    "LastName": "Quiroz",
+    "Age": 31,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 15,
+    "Name": "Anna",
+    "LastName": "Mcgowan",
+    "Age": 23,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 16,
+    "Name": "Miriam",
+    "LastName": "Martinz",
+    "Age": 21,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 17,
+    "Name": "Alexander",
+    "LastName": "Fortune",
+    "Age": 28,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 18,
+    "Name": "Lalio",
+    "LastName": "Todoroff",
+    "Age": 30,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 19,
+    "Name": "Manuel",
+    "LastName": "Uruchutu",
+    "Age": 31,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 21,
+    "Name": "Jamila",
+    "LastName": "Nicola",
+    "Age": 40,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 22,
+    "Name": "Theodor",
+    "LastName": "Kraeff",
+    "Age": 43,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 23,
+    "Name": "Denis",
+    "LastName": "Lennon",
+    "Age": 45,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 24,
+    "Name": "Richard",
+    "LastName": "Cater",
+    "Age": 36,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 25,
+    "Name": "Emily",
+    "LastName": "Rugg",
+    "Age": 57,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 26,
+    "Name": "Carl",
+    "LastName": "Asplund",
+    "Age": 23,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 27,
+    "Name": "Michell",
+    "LastName": "Gibson",
+    "Age": 31,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 28,
+    "Name": "Martha",
+    "LastName": "Luth",
+    "Age": 19,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 29,
+    "Name": "Ferdower",
+    "LastName": "Ross",
+    "Age": 59,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 31,
+    "Name": "Cristopher",
+    "LastName": "Jhonson",
+    "Age": 34,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 32,
+    "Name": "Cris",
+    "LastName": "Duarte",
+    "Age": 20,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 33,
+    "Name": "Eduard",
+    "LastName": "Conte",
+    "Age": 28,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 34,
+    "Name": "Aldo",
+    "LastName": "Suarez",
+    "Age": 39,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 35,
+    "Name": "Julian",
+    "LastName": "Alvarez",
+    "Age": 23,
+    "Sex": "male",
+    "Survived": 0
+  }
+]
